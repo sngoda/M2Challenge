@@ -14,22 +14,18 @@ Python3 is used to build the application. Lists (Lists of Lists), file io and qu
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
-
----
 Download source code
-Goto Start_Code/qualifier folder
+Goto the directory, M2Challenge
 Run, python3 app.y for application
 Run, python3 tests/test_qualifier.py for unit tests
-
 
 ## Examples
 
 This section should include screenshots, code blocks, or animations showing how your project works.
 
 ---
-cd Starter_Code/qualifier
-FinTech/Homeworks/Week2/Starter_Code/qualifier$ python3 app.py 
+cd M2Challenge
+~/m2c/M2Challenge$ python3 app.py 
 ? Enter a file path to a rate-sheet (.csv): data/daily_rate_sheet.csv
 Path is, data/daily_rate_sheet.csv
 PWD is, /home/srini/FinTech/Homeworks/Week2/Starter_Code/qualifier
